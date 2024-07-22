@@ -1,8 +1,7 @@
-# Análise de Música com Streamlit
-
+# Spotify Dataset
 ## Visão Geral
 
-Bem-vindo ao projeto de Análise de Música com Streamlit! Este projeto utiliza o Python, Pandas e Streamlit para criar relatórios informativos sobre streams de música e a dançabilidade das músicas dos artistas.
+Bem-vindo ao projeto Spoity Dataset! Este projeto utiliza o Python, Pandas e Streamlit para criar relatórios informativos sobre streams de música e a dançabilidade das músicas dos artistas.
 
 ## Funcionalidades
 
